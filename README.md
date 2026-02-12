@@ -22,3 +22,4 @@ This project implements a **Strict, Leakage-Free Pipeline** to truthfully benchm
 * `Notebooks/`: Contains Jupyter notebooks for all experiments detailed in the paper.
 * `Datasets/`: The links to the datasets (Telecom UCI & Bank Customer Churn).
 * `Article`: The full research paper (PDF).
+* `Seminar final Presentation`: The final presentation we presented in class.
